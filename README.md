@@ -268,3 +268,5 @@ The user input is managed by a `Scanner` object. All inputs are trimmed before p
 
   Please enter the first positive integer A:
   ```
+
+Completed for SOFTENG 282: Software Engineering Theory.
